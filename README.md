@@ -10,4 +10,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [https://fm-qr-code-umber.vercel.app/]
+- Live Site URL: https://fm-qr-code-umber.vercel.app/
